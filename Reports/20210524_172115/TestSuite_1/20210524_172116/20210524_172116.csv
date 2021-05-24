@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_1,Chrome 90.0.4430.212,,,2021-05-24 17:21:22,2021-05-24 17:21:31,"8,858s",PASSED
+,,,,,,,
+Test Cases/TestCase_1,Chrome 90.0.4430.212,,,2021-05-24 17:21:23,2021-05-24 17:21:31,"8,130s",PASSED
+"openBrowser(""https://www.katalon.com/"")",Chrome 90.0.4430.212,,,2021-05-24 17:21:23,2021-05-24 17:21:30,"7,157s",PASSED
+closeBrowser(),Chrome 90.0.4430.212,,,2021-05-24 17:21:30,2021-05-24 17:21:31,"0,714s",PASSED

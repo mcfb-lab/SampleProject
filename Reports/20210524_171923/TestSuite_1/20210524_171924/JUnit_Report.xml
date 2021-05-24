@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuite_1" time="14.665" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuite_1" tests="1" failures="0" errors="0" time="14.665" skipped="0" timestamp="2021-05-24 17:19:30" hostname="mirela.carla.bianor - WINAPiL7g1DVdlF.corp.avanade.org" id="Test Suites/TestSuite_1">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\mirela.carla.bianor\\git\\SampleProject\\SampleProject\\Reports\\20210524_171923\\TestSuite_1\\20210524_171924"/>
+         <property name="logFiles" value="C:\\Users\\mirela.carla.bianor\\git\\SampleProject\\SampleProject\\Reports\\20210524_171923\\TestSuite_1\\20210524_171924\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="mirela.carla.bianor - WINAPiL7g1DVdlF.corp.avanade.org"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.0.0.208"/>
+         <property name="browser" value="Chrome 90.0.4430.212"/>
+         <property name="hostAddress" value="192.168.1.5"/>
+         <property name="sessionId" value="c4b8513231a404e1953c383089ccbebc"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestCase_1" time="13.797" classname="Test Cases/TestCase_1" status="PASSED">
+         <system-out><![CDATA[2021-05-24 17:19:30 - [TEST_CASE][PASSED] - Test Cases/TestCase_1: Test Cases/TestCase_1
+
+2021-05-24 17:19:30 - [TEST_STEP][PASSED] - openBrowser("https://www.katalon.com/"): Browser is opened with url: 'https://www.katalon.com/'
+
+2021-05-24 17:19:31 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2021-05-24 17:19:31 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-05-24 17:19:43 - [MESSAGE][PASSED] - Browser is opened with url: 'https://www.katalon.com/'
+
+2021-05-24 17:19:43 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-05-24 17:19:44 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-05-24 17:19:30 - [TEST_SUITE][PASSED] - TestSuite_1: Test Cases/TestCase_1]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
