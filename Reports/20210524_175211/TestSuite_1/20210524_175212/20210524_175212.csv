@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestSuite_1,Chrome 90.0.4430.212,,,2021-05-24 17:52:17,2021-05-24 17:52:32,"15,370s",PASSED
+,,,,,,,
+Test Cases/TestCase_1,Chrome 90.0.4430.212,,,2021-05-24 17:52:18,2021-05-24 17:52:26,"8,418s",PASSED
+"openBrowser(""https://www.katalon.com/"")",Chrome 90.0.4430.212,,,2021-05-24 17:52:18,2021-05-24 17:52:25,"7,248s",PASSED
+closeBrowser(),Chrome 90.0.4430.212,,,2021-05-24 17:52:25,2021-05-24 17:52:26,"0,864s",PASSED
+,,,,,,,
+Test Cases/TestCase_2,Chrome 90.0.4430.212,,,2021-05-24 17:52:26,2021-05-24 17:52:32,"6,129s",PASSED
+"openBrowser(""https://www.katalon.com/"")",Chrome 90.0.4430.212,,,2021-05-24 17:52:26,2021-05-24 17:52:32,"5,131s",PASSED
+closeBrowser(),Chrome 90.0.4430.212,,,2021-05-24 17:52:32,2021-05-24 17:52:32,"0,824s",PASSED
